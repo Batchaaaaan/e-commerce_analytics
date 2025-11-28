@@ -79,5 +79,23 @@ The challenge tasked us to identify sales performance drivers across the busines
 
 ### Analysis
 
+- Accumulated a Net Revenue of **~$32M** from Apr 2024 to Oct 2025 with 18% increase from last year.
+- Total transaction of **48k** but a decline of **~22%** from the past month.
+- **1,005** of refund cases or **$635k** refunded amount, mostly driven by operational issues such as billing errors, duplicate orders, and accidental purchases.
+- **Website** channel brings in the most sales with ~$14M net revenue over the years.
+- **Microsoft 365 Business Standard Annual** is the top revenue generator with ~$1.6M net revenue and 3040 products sold.
+- **Tableau Creator Monthly** is the best selling product with 3286 products sold and generated ~$85k net revenue.
+- **LATAM** customers generates the most revenue with the least amount of customers. Generates ~$8.4k of revenue per customer with a total customer of 172.
+- **Developer Tools**, **Design**, and **AI** tools generates the most revenue with ~$4.7M, ~$4.1M, and ~$3.3M generated, respectively.
+- **WELCOME10** is the most used discount code.
+- Discount code on average hurts the repeat purchase rate more than it helps.
+- **Azure AI Studio Monthly Pro** is the most refunded product while Microsoft Copilot for Office Annual Standard is the least refunded.
+- Customer prefers **monthly** billing plan but it brings the least revenue per customers.
+- **Annual** billing plan brings the most revenue per customers.
+- There are a total of **3,020 loyal customers** from the total of 4,000.
+- **86.3% of total net revenue** is from loyal customers.
+- On average, customers wait **45 days** between the first purchase and their second purchase.
+- Most of our customers are acquired **organically**.
+ 
 ### Reference
 Refer to this [post](https://www.linkedin.com/posts/batchaaan22_datafam-datadna-datavisualization-activity-7398700528467357696-cXrF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADU37-4BvZkdxoNILB6GhzRJGT7OoLWMMoY) to view my submission.
