@@ -1,5 +1,16 @@
 # E-Commerce Analytics
+<div>
+  <h4>Revenue Summary View</h3>
+<img src="images/summary view.png">
 
+  <h4>Revenue Drivers View</h4>
+<img src="images/drivers view.png">
+
+<h4>Customers Report View</h4>
+<img src="images/customers view.png">
+
+</div>
+  
 ### Overview
 This project was created as part of my submission for the **Onyx DataDNA Challenge - November 2025**, wherein I created three-pager report to analyze ecommerce sales dataset from a global software retailer.
 The objective is to identify loyal customers (repeat buyers) and determine which channels and promotional campaigns drive their repeat purchases. 
